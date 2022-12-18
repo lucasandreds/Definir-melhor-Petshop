@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1654275093 source:/home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/main.cpp
+	<iostream>
+	<time.h>
+	<string.h>
+	"Petshops.h"
+	"ManipulacaoDatas.h"
+	"ManipulacaoQuantidade.h"
+
+1654140332 /home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/include/Petshops.h
+	<time.h>
+
+1654270136 /home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/include/ManipulacaoDatas.h
+	<iostream>
+	<stdlib.h>
+
+1654270130 /home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/include/ManipulacaoQuantidade.h
+	<iostream>
+
+1654275297 source:/home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/src/ManipulacaoDatas.cpp
+	"ManipulacaoDatas.h"
+
+1654275273 source:/home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/src/ManipulacaoQuantidade.cpp
+	"ManipulacaoQuantidade.h"
+
+1654140597 source:/home/lucaslinux/Documentos/2 ano/C/Atividade DTI/Petshops/Petshop/src/Petshops.cpp
+	"Petshops.h"
+
